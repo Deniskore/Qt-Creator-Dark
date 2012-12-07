@@ -1,4 +1,5 @@
 Qt-Creator-Dark
 ===============
 
-Qt Creator Dark Denis theme
+Qt Creator Dark theme 
+"Your eyes don't get tired" (ñ)
