@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Dark Denis">
-  <style name="Text" foreground="#baba5c" background="#1e1e1e" bold="true"/>
+  <style name="Text" foreground="#baba5c" background="#393939" bold="true"/>
   <style name="Link" foreground="#268bd2"/>
   <style name="Selection" background="#306191"/>
   <style name="LineNumber" foreground="#3592d0"/>
@@ -16,7 +16,7 @@
   <style name="String" foreground="#ca87ca"/>
   <style name="Type" foreground="#9090d5"/>
   <style name="Local" foreground="#e29670"/>
-  <style name="Field" foreground="#767658"/>
+  <style name="Field" foreground="#aaaa7f"/>
   <style name="Static" foreground="#00cfcf" italic="true"/>
   <style name="VirtualMethod" foreground="#b8008d" italic="true"/>
   <style name="Function" foreground="#9fcbc1" bold="true"/>
@@ -44,4 +44,10 @@
   <style name="RemovedLine" foreground="#ff5555"/>
   <style name="DiffFile" foreground="#55ff55"/>
   <style name="DiffLocation" foreground="#ffff55"/>
+  <style name="DiffFileLine" background="#ffff00"/>
+  <style name="DiffContextLine" background="#afd7e7"/>
+  <style name="DiffSourceLine" background="#ffdfdf"/>
+  <style name="DiffSourceChar" background="#ffafaf"/>
+  <style name="DiffDestLine" background="#dfffdf"/>
+  <style name="DiffDestChar" background="#afffaf"/>
 </style-scheme>
